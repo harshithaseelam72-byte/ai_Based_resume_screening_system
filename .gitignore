@@ -4,4 +4,6 @@ __pycache__/
 *.pyc
 .env
 uploads/
-"@ | Set-Content .gitignore
+"@ | Set-Content .gitignorevenv/
+__pycache__/
+*.pyc
